@@ -28,5 +28,6 @@ Visuals 🎥
 
 - Accessing the Internet and Viewing Live Logs:
 <p align="center">
-  <img src="https://github.com/pentestfunctions/MiTMProxy_Network/blob/main/images/proxy.gif">
+  <img src="https://github.com/pentestfunctions/MiTMProxy_Network/blob/main/images/MiTMWeb.gif
+">
 </p>
